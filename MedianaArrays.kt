@@ -39,6 +39,5 @@ class Solution {
             }
         }
 
-        throw IllegalArgumentException("Arrays de entrada não estão ordenados corretamente")
     }
 }
