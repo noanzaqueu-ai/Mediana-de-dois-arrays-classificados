@@ -1,2 +1,2 @@
-# Mediana-de-dois-arrays-classificados
-Solução em Kotlin para o problema "Median of Two Sorted Arrays" (LeetCode #4) usando busca binária — O(log(min(m,n)))
+Mediana de dois Arrays
+Kotlin solution for the "Median of Two Sorted Arrays" problem (LeetCode #4) using binary search — O(log(min(m,n)))
